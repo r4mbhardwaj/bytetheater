@@ -1,2 +1,3 @@
 /target
-myfiles/720pVideo.mp4
+myfiles/*.mp4
+myfiles/*.gz
